@@ -3,6 +3,11 @@
     свойство:значение;
 } */
 
+
+* {
+    box-sizing:border-box;
+}
+
 h1 {
     color: black;
     text-align: center;
@@ -46,9 +51,10 @@ p {
 }
 
 .img1 {
+    width: 300px;
+    height: 300px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 50px auto;
 }
 
 .link1 {
@@ -67,7 +73,8 @@ p {
 }
 
 .header {
-    width: 1000px ;
+    box-sizing:content-box;
+    width: 1000px;
     height: 60px;
     background-color: rgba(205, 92, 92, 0.501);
     padding: 20px 0px;
@@ -79,8 +86,9 @@ p {
 }
 
 .box1 {
-    width: 100px;
-    height: 100px;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.1);
     padding: 20px;
     border: 5px solid black;
@@ -90,8 +98,8 @@ p {
 }
 
 .box2 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.2);
     padding: 20px;
     border: 5px solid black;
@@ -101,8 +109,8 @@ p {
 }
 
 .box3 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.3);
     padding: 20px;
     border: 5px solid black;
@@ -112,8 +120,8 @@ p {
 }
 
 .box4 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.4);
     padding: 20px;
     border: 5px solid black;
@@ -123,8 +131,8 @@ p {
 }
 
 .box5 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.5);
     padding: 20px;
     border: 5px solid black;
@@ -134,8 +142,8 @@ p {
 }
 
 .box6 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.6);
     padding: 20px;
     border: 5px solid black;
@@ -145,8 +153,8 @@ p {
 }
 
 .box7 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.7);
     padding: 20px;
     border: 5px solid black;
@@ -156,8 +164,8 @@ p {
 }
 
 .box8 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.8);
     padding: 20px;
     border: 5px solid black;
@@ -167,8 +175,8 @@ p {
 }
 
 .box9 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 0.9);
     padding: 20px;
     border: 5px solid black;
@@ -178,8 +186,8 @@ p {
 }
 
 .box10 {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background-color: rgba(122, 183, 237, 1);
     padding: 20px;
     border: 5px solid black;
