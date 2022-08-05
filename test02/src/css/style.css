@@ -1,0 +1,89 @@
+/* селектор {
+    свойство:значение;
+    свойство:значение;
+} */
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+
+h4 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.album {
+    color:#009797;
+}
+
+.text {
+    font-weight: 600;
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link1 {
+    text-align: center;
+}
+
+.list1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.name1 {
+    text-align: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: indianred;
+    padding: 100px 50px 50px 70px;
+    border: 5px solid black;
+    margin: 5px;
+}
+
+.header {
+    width: 1000px ;
+    height: 60px;
+    background-color: rgba(205, 92, 92, 0.501);
+    padding: 20px 0px;
+    border: 1px solid black;
+    margin: auto;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
