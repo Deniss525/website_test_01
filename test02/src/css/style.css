@@ -66,15 +66,6 @@ p {
     text-align: center;
 }
 
-.box {
-    width: 200px;
-    height: 200px;
-    background-color: indianred;
-    padding: 100px 50px 50px 70px;
-    border: 5px solid black;
-    margin: 5px;
-}
-
 .header {
     width: 1000px ;
     height: 60px;
@@ -87,3 +78,112 @@ p {
     text-align: center;
 }
 
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.1);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.2);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.3);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.4);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box5 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.5);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box6 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.6);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box7 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.7);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box8 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.8);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box9 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 0.9);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
+
+.box10 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(122, 183, 237, 1);
+    padding: 20px;
+    border: 5px solid black;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 8px; 
+}
